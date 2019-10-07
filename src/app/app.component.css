@@ -1,0 +1,127 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+    background-color: black;
+  }
+  
+  /* .navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+  } */
+  
+  #header {
+    text-align: center;
+    background-color: rgb(0,0,0);
+    color: #fff;
+    padding-top: 32px;
+    background: url(../assets/images/iphone11-pro-header.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 590px;
+    padding-top: 82px;
+  }
+  
+  #header .h1, h1 {
+    font-size: 50px;
+  }
+  
+  .learn-more-buy {
+    font-size: larger;
+    color: #6bf;
+  }
+  
+  #learn-more {
+    margin-right: 10px;
+  }
+  
+  .iphone-watch {
+    text-align: center;
+    padding-top: 32px;
+    height: 580px;
+  }
+  
+  #color-section {
+    background: url(../assets/images/iphone11-colors.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #watch-section {
+    background: url(../assets/images/apple-watch-section.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #watch-section .h4, h4 {
+    color: #d32833;
+  }
+  
+  .watch-desc {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: normal;
+  }
+  
+  .tiles {
+    text-align: center;
+    height: 580px;
+    /*width: 80%;*/
+    padding-top: 40px;
+    /*margin: 1px;*/
+  }
+  
+  #watch-tile {
+    background: url(../assets/images/promo-tile-4.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .tiles p {
+    font-size: x-large;
+  }
+  
+  #Ipad-tile {
+    background: url(../assets/images/promo-tile-5.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #tv-tile {
+    background: url(../assets/images/promo-tile-6.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #tv-tile.h2, h2 {
+    color: white;
+    margin-top: 19px;
+  }
+  
+  #card-tile {
+    background: url(../assets/images/promo-tile-3.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #arcade-tile {
+    background: url(../assets/images/promo-tile-1.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+  }
+  
+  #oprah-tile {
+    background: url(../assets/images/promo-tile-2.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    /*color: white;*/
+  }
+  
+  .learn-more-arcade {
+    font-size: larger;
+    color: white;
+    /*margin-top: 19px;*/
+  }
+  
+  #oprah-tile.h2, h2 {
+    color: black;
+  }
+  
+  
